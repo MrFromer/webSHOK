@@ -1,0 +1,16 @@
+# Игнорируем папку с настройками Testplane
+.testplane/
+
+# Игнорируем зависимости
+node_modules/
+
+# Дополнительные рекомендуемые исключения для проектов на TypeScript/JavaScript
+*.log
+.DS_Store
+.idea/
+.vscode/
+dist/
+coverage/
+*.tmp
+*.bak
+*.swp
